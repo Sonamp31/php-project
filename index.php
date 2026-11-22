@@ -23,7 +23,7 @@ $message = $greeter->greet($name);
 <body>
     <main>
         <h1><?= htmlspecialchars($message) ?></h1>
-        <p>Shraddha Wagh</p>
+        <p>Sonam Pal</p>
     </main>
 </body>
 </html>
